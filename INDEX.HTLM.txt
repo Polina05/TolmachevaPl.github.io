@@ -1,0 +1,10 @@
+<!docetype htlm>
+<html>
+<head>
+<meta charset="unf-8"
+<title>Hello</title>
+</head>
+<body>
+Hello world!
+</body>
+</html>
